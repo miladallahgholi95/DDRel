@@ -1,0 +1,780 @@
+Drug name,ATC Code,Score
+diflunisal,['N02BA11'],1
+drotaverine,['A03AD02'],1
+pargyline,"['C02LL01', 'C02KC01']",1
+fenofibrate,"['C10AB11', 'C10BA04', 'C10BA03', 'C10AB05']",1
+guanfacine,['C02AC02'],1
+demecarium,['S01EB04'],1
+chlorzoxazone,"['M03BB53', 'M03BB03', 'M03BB73']",1
+nomifensine,['N06AX04'],1
+doxazosin,['C02CA04'],1
+yohimbine,['G04BE04'],1
+oxymetholone,['A14AA05'],1
+azathioprine,['L04AX01'],1
+methocarbamol,"['M03BA03', 'M03BA53', 'M03BA73']",0.964705882
+tizanidine,['M03BX02'],0.964705882
+cyclobenzaprine,['M03BX08'],0.964705882
+ritodrine,['G02CA01'],0.952380952
+mepyramine,"['D04AA02', 'R06AC01']",0.941176471
+thiethylperazine,['R06AD03'],0.941176471
+cyproheptadine,['R06AX02'],0.941176471
+diphenhydramine,"['R06AA02', 'D04AA32', 'D04AA33', 'R06AA52']",0.941176471
+cyclizine,"['R06AE03', 'R06AE53']",0.941176471
+promethazine,"['V03AB05', 'R06AD02', 'D04AA10', 'R06AD52']",0.941176471
+aminophylline,"['R03DA55', 'R03DB05', 'R03DA05']",0.930232558
+doxapram,['R07AB01'],0.930232558
+aprepitant,['A04AD12'],0.929411765
+palonosetron,['A04AA05'],0.929411765
+ondansetron,['A04AA01'],0.929411765
+granisetron,['A04AA02'],0.929411765
+dolasetron,['A04AA04'],0.929411765
+alizapride,['A03FA05'],0.929411765
+metoclopramide,['A03FA01'],0.929411765
+besifloxacin,['S01AE08'],0.914893617
+retapamulin,['D06AX13'],0.909090909
+difluprednate,['D07AC19'],0.90625
+regadenoson,['C01EB21'],0.837209302
+dobutamine,['C01CA07'],0.837209302
+levosimendan,['C01CX08'],0.837209302
+amrinone,['C01CE01'],0.837209302
+enoximone,['C01CE03'],0.837209302
+milrinone,['C01CE02'],0.837209302
+esmolol,['C07AB09'],0.837209302
+mepenzolate,['A03AB12'],0.80952381
+methantheline,['A03AB07'],0.80952381
+oxyphenonium,"['A03AB03', 'A03AB53']",0.80952381
+clidinium,['A03CA02'],0.80952381
+propantheline,"['A03CA34', 'A03AB05']",0.80952381
+physostigmine,"['S01EB05', 'V03AB19']",0.8
+bromocriptine,"['G02CB01', 'N04BC01']",0.8
+cabergoline,"['G02CB03', 'N04BC06']",0.8
+alcaftadine,['S01GX11'],0.709677419
+emedastine,['S01GX06'],0.709677419
+terconazole,['G01AG02'],0.684210526
+nicergoline,['C04AE02'],0.666666667
+cyclandelate,['C04AX01'],0.666666667
+flunarizine,['N07CA03'],0.666666667
+betahistine,['N07CA01'],0.666666667
+nafarelin,['H01CA02'],0.666666667
+gonadorelin,"['H01CA01', 'V04CM01']",0.666666667
+ganirelix,['H01CC01'],0.666666667
+cetrorelix,['H01CC02'],0.666666667
+cinacalcet,['H05BX01'],0.6
+paricalcitol,['H05BX02'],0.6
+calcitriol,"['D05AX03', 'A11CC04']",0.6
+doxercalciferol,['H05BX03'],0.6
+alfacalcidol,"['M05BB06', 'A11CC03']",0.6
+ergocalciferol,['A11CC01'],0.6
+posaconazole,['J02AC04'],0.578947368
+caspofungin,['J02AX04'],0.578947368
+micafungin,['J02AX05'],0.578947368
+anidulafungin,['J02AX06'],0.578947368
+voriconazole,['J02AC03'],0.578947368
+itraconazole,['J02AC02'],0.578947368
+bupranolol,['C07AA19'],0.5625
+bevantolol,"['C07BB06', 'C07AB06']",0.5625
+alprenolol,['C07AA01'],0.5625
+penbutolol,"['C07CA23', 'C07AA23']",0.5625
+practolol,['C07AB01'],0.5625
+pindolol,"['C07AA03', 'C07CA03']",0.5625
+oxprenolol,"['C07BA02', 'C07AA02', 'C07CA02']",0.5625
+bopindolol,"['C07AA17', 'C07CA17']",0.5625
+celiprolol,['C07AB08'],0.5625
+acebutolol,"['C07AB04', 'C07BB04']",0.5625
+mephenytoin,"['N03AB04', 'N03AB54']",0.5
+phenacetin,"['N02BE73', 'N02BE53', 'N02BE03']",0.5
+methyltestosterone,"['G03BA02', 'G03EA01', 'G03EK01']",0.5
+fluoxymesterone,['G03BA01'],0.5
+abarelix,['L02BX01'],0.444444444
+goserelin,['L02AE03'],0.444444444
+buserelin,['L02AE01'],0.444444444
+triptorelin,['L02AE04'],0.444444444
+degarelix,['L02BX02'],0.444444444
+bicalutamide,['L02BB03'],0.444444444
+octreotide,['H01CB02'],0.4
+pegvisomant,['H01AX01'],0.4
+pasireotide,['H01CB05'],0.4
+lanreotide,['H01CB03'],0.4
+butenafine,['D01AE23'],0.368421053
+sertaconazole,['D01AC14'],0.368421053
+tolnaftate,['D01AE18'],0.368421053
+terbinafine,"['D01BA02', 'D01AE15']",0.368421053
+naftifine,['D01AE22'],0.368421053
+bifonazole,"['D01AC60', 'D01AC10']",0.368421053
+bromfenac,['S01BC11'],0.34375
+tafluprost,['S01EE05'],0.34375
+nepafenac,['S01BC10'],0.34375
+cyclopentolate,['S01FA04'],0.34375
+tropicamide,"['S01FA56', 'S01FA06']",0.34375
+apraclonidine,['S01EA03'],0.34375
+dapiprazole,['S01EX02'],0.34375
+rimexolone,"['S01BA13', 'H02AB12']",0.34375
+loteprednol,['S01BA14'],0.34375
+latanoprost,['S01EE01'],0.34375
+bimatoprost,['S01EE03'],0.34375
+travoprost,['S01EE04'],0.34375
+dorzolamide,['S01EC03'],0.34375
+brinzolamide,['S01EC04'],0.34375
+levobunolol,['S01ED03'],0.34375
+metformin,"['A10BD15', 'A10BD13', 'A10BD03', 'A10BD10', 'A10BD11', 'A10BD14', 'A10BD05', 'A10BD02', 'A10BA02', 'A10BD08', 'A10BD07']",0.333333333
+rosiglitazone,"['A10BD03', 'A10BD04', 'A10BG02']",0.333333333
+pioglitazone,"['A10BD09', 'A10BD05', 'A10BD06', 'A10BG03', 'A10BD12']",0.333333333
+orciprenaline,"['R03AB03', 'R03CB03', 'R03CB53']",0.333333333
+salbutamol,"['R03AL02', 'R03AC02', 'R03CC02', 'R03AK04']",0.333333333
+tiotropium,['R03BB04'],0.333333333
+olodaterol,['R03AC19'],0.333333333
+indacaterol,"['R03AC18', 'R03AL04']",0.333333333
+aclidinium,['R03BB05'],0.333333333
+vilanterol,"['R03AL03', 'R03AK10']",0.333333333
+umeclidinium,['R03AL03'],0.333333333
+formoterol,"['R03AK08', 'R03AK09', 'R03AK11', 'R03AC13', 'R03AK07']",0.333333333
+terbutaline,"['R03CC53', 'R03AC03', 'R03CC03']",0.333333333
+salmeterol,"['R03AK06', 'R03AC12']",0.333333333
+procaterol,"['R03CC08', 'R03AC16']",0.333333333
+pirbuterol,"['R03AC08', 'R03CC07']",0.333333333
+bitolterol,['R03AC17'],0.333333333
+prednisone,"['A07EA03', 'H02AB07']",0.333333333
+prednisolone,"['S01CB02', 'A07EA01', 'S01BB02', 'S02BA03', 'D07CA03', 'D07BA01', 'A01AC54', 'H02AB06', 'S03CA02', 'S01BA04', 'R01AD02', 'S01CA02', 'V03AB05', 'S02CA01', 'C05AA04', 'D07AA03', 'D07XA02', 'R01AD52', 'S03BA02']",0.333333333
+methylprednisolone,"['H02BX01', 'H02AB04', 'D07AA01', 'D07CA02', 'D07AC14', 'D10AA02', 'S01CA08']",0.333333333
+oxiconazole,"['G01AF17', 'D01AC11']",0.315789474
+econazole,"['G01AF05', 'D01AC03']",0.315789474
+tioconazole,"['G01AF08', 'D01AC07']",0.315789474
+clotrimazole,"['A01AB18', 'D01AC01', 'G01AF02']",0.315789474
+oxybuprocaine,"['D04AB03', 'S01HA02']",0.3125
+brimonidine,"['S01EA05', 'D11AX21']",0.3125
+fenoterol,"['R03AC04', 'G02CA03', 'R03AL01', 'R03CC04']",0.285714286
+modafinil,['N06BA07'],0.25
+methylphenidate,['N06BA04'],0.25
+atomoxetine,['N06BA09'],0.25
+lisdexamfetamine,['N06BA12'],0.25
+pregabalin,['N03AX16'],0.209302326
+lorazepam,"['N05BA56', 'N05BA06']",0.209302326
+gabapentin,['N03AX12'],0.209302326
+tramadol,"['N02AX02', 'N02AX52']",0.209302326
+acepromazine,['N05AA04'],0.209302326
+levobupivacaine,['N01BB10'],0.209302326
+bupivacaine,"['N01BB01', 'N01BB51']",0.209302326
+methoxyflurane,['N02BG09'],0.209302326
+enflurane,['N01AB04'],0.209302326
+halothane,['N01AB01'],0.209302326
+mepivacaine,"['N01BB03', 'N01BB53']",0.209302326
+prilocaine,"['N01BB54', 'N01BB04']",0.209302326
+chloroprocaine,['N01BA04'],0.209302326
+pentobarbital,['N05CA01'],0.209302326
+thiopental,"['N01AF03', 'N05CA19']",0.209302326
+ropivacaine,['N01BB09'],0.209302326
+oxycodone,"['N02AA05', 'N02AA55']",0.209302326
+alfentanil,['N01AH02'],0.209302326
+pethidine,"['N02AB72', 'N02AB02', 'N02AB52', 'N02AG03']",0.209302326
+butorphanol,['N02AF01'],0.209302326
+pentazocine,['N02AD01'],0.209302326
+hydromorphone,"['N02AG04', 'N02AA03']",0.209302326
+dezocine,['N02AX03'],0.209302326
+nalbuphine,['N02AF02'],0.209302326
+etomidate,['N01AX07'],0.209302326
+midazolam,['N05CD08'],0.209302326
+remifentanil,['N01AH06'],0.209302326
+dexmedetomidine,['N05CM18'],0.209302326
+sufentanil,['N01AH03'],0.209302326
+isoflurane,['N01AB06'],0.209302326
+desflurane,['N01AB07'],0.209302326
+propofol,['N01AX10'],0.209302326
+sevoflurane,['N01AB08'],0.209302326
+isocarboxazid,['N06AF01'],0.2
+vortioxetine,['N06AX26'],0.2
+minaprine,['N06AX07'],0.2
+chlorpromazine,['N05AA01'],0.2
+lurasidone,['N05AE05'],0.2
+desvenlafaxine,['N06AX23'],0.2
+duloxetine,['N06AX21'],0.2
+methysergide,['N02CA04'],0.2
+zuclopenthixol,['N05AF05'],0.2
+milnacipran,['N06AX17'],0.2
+agomelatine,['N06AX22'],0.2
+vilazodone,['N06AX24'],0.2
+fluphenazine,['N05AB02'],0.2
+droperidol,['N05AD08'],0.2
+prochlorperazine,['N05AB04'],0.2
+protriptyline,['N06AA11'],0.2
+butriptyline,['N06AA15'],0.2
+nialamide,['N06AF02'],0.2
+thioridazine,['N05AC02'],0.2
+sertindole,['N05AE03'],0.2
+iloperidone,['N05AX14'],0.2
+amineptine,['N06AA19'],0.2
+phenelzine,['N06AF03'],0.2
+tranylcypromine,['N06AF04'],0.2
+nefazodone,['N06AX06'],0.2
+moclobemide,['N06AG02'],0.2
+remoxipride,['N05AL04'],0.2
+perphenazine,['N05AB03'],0.2
+mesoridazine,['N05AC03'],0.2
+fluspirilene,['N05AG01'],0.2
+flupentixol,['N05AF01'],0.2
+triflupromazine,['N05AA05'],0.2
+thioproperazine,['N05AB08'],0.2
+promazine,['N05AA03'],0.2
+molindone,['N05AE02'],0.2
+chlorprothixene,['N05AF03'],0.2
+clozapine,['N05AH02'],0.2
+aripiprazole,['N05AX12'],0.2
+ziprasidone,['N05AE04'],0.2
+risperidone,['N05AX08'],0.2
+asenapine,['N05AH05'],0.2
+quetiapine,['N05AH04'],0.2
+haloperidol,['N05AD01'],0.2
+olanzapine,['N05AH03'],0.2
+escitalopram,['N06AB10'],0.2
+venlafaxine,['N06AX16'],0.2
+reboxetine,['N06AX18'],0.2
+imipramine,"['N06AA02', 'N06AA03']",0.2
+desipramine,['N06AA01'],0.2
+citalopram,['N06AB04'],0.2
+sertraline,['N06AB06'],0.2
+fluvoxamine,['N06AB08'],0.2
+paroxetine,['N06AB05'],0.2
+amisulpride,['N05AL05'],0.2
+buspirone,['N05BE01'],0.2
+mirtazapine,['N06AX11'],0.2
+mianserin,['N06AX03'],0.2
+nortriptyline,['N06AA10'],0.2
+amoxapine,['N06AA17'],0.2
+trazodone,['N06AX05'],0.2
+maprotiline,['N06AA21'],0.2
+amitriptyline,"['N06CA01', 'N06AA09']",0.2
+clomipramine,['N06AA04'],0.2
+trimipramine,['N06AA06'],0.2
+hydroxyzine,"['N05BB51', 'N05BB01']",0.2
+doxepin,['N06AA12'],0.2
+pimozide,['N05AG02'],0.2
+sulpiride,['N05AL01'],0.2
+donepezil,"['N06DA02', 'N06DA52']",0.2
+rivastigmine,['N06DA03'],0.2
+memantine,"['N06DX01', 'N06DA52']",0.2
+galantamine,['N06DA04'],0.2
+sibutramine,['A08AA10'],0.2
+phentermine,['A08AA01'],0.2
+fenfluramine,['A08AA02'],0.2
+dexfenfluramine,['A08AA04'],0.2
+mazindol,['A08AA05'],0.2
+prazosin,"['C02LE01', 'C02CA01']",0.2
+phentolamine,"['V03AB36', 'C04AB01']",0.2
+bretylium,['C01BD02'],0.2
+phenoxybenzamine,['C04AX02'],0.2
+guanethidine,"['S01EX01', 'C02LF01', 'C02CC02']",0.2
+orphenadrine,"['M03BC01', 'M03BC51', 'N04AB02']",0.164705882
+morphine,"['N02AA51', 'A07DA52', 'N02AA01', 'N02AG01', 'R05DA05']",0.162790698
+azatadine,['R06AX09'],0.096774194
+dimetindene,"['R06AB03', 'D04AA13']",0.096774194
+astemizole,['R06AX11'],0.096774194
+terfenadine,['R06AX12'],0.096774194
+fexofenadine,['R06AX26'],0.096774194
+loratadine,['R06AX13'],0.096774194
+mequitazine,['R06AD07'],0.096774194
+triprolidine,['R06AX07'],0.096774194
+levocetirizine,['R06AE09'],0.096774194
+clemastine,"['R06AA54', 'R06AA04', 'D04AA14']",0.096774194
+cetirizine,['R06AE07'],0.096774194
+desloratadine,['R06AX27'],0.096774194
+zafirlukast,['R03DC01'],0.096774194
+diphenylpyraline,"['R06AA57', 'R06AA07']",0.096774194
+chlorphenamine,"['R06AB04', 'R06AB54']",0.096774194
+antazoline,"['R06AX05', 'R01AC04']",0.096774194
+pheniramine,['R06AB05'],0.096774194
+brompheniramine,"['R06AB01', 'R06AB51']",0.096774194
+carbinoxamine,['R06AA08'],0.096774194
+pranlukast,['R03DC02'],0.096774194
+montelukast,['R03DC03'],0.096774194
+fesoterodine,['G04BD11'],0.083333333
+mirabegron,['G04BD12'],0.083333333
+solifenacin,"['G04BD08', 'G04CA53']",0.083333333
+oxybutynin,['G04BD04'],0.083333333
+vardenafil,['G04BE09'],0.083333333
+tadalafil,['G04BE08'],0.083333333
+sildenafil,['G04BE03'],0.083333333
+silodosin,['G04CA04'],0.083333333
+terazosin,['G04CA03'],0.083333333
+tolterodine,['G04BD07'],0.083333333
+tamsulosin,"['G04CA02', 'G04CA52', 'G04CA53']",0.083333333
+alfuzosin,"['G04CA01', 'G04CA51']",0.083333333
+fluconazole,"['J02AC01', 'D01AC15']",0.052631579
+vancomycin,"['A07AA09', 'J01XA01']",0.045454545
+tazobactam,['J01CG02'],0.045454545
+cefuroxime,"['J01DC02', 'S01AA27', 'J01RA03']",0.045454545
+aztreonam,['J01DF01'],0.045454545
+ceftazidime,['J01DD02'],0.045454545
+oxacillin,['J01CF04'],0.045454545
+cefoxitin,['J01DC01'],0.045454545
+ceftriaxone,"['J01DD54', 'J01DD04']",0.045454545
+cefotaxime,['J01DD01'],0.045454545
+ampicillin,"['J01CA01', 'J01CR01', 'S01AA19', 'J01CA51']",0.045454545
+imipenem,['J01DH51'],0.045454545
+fosfomycin,['J01XX01'],0.045454545
+cefazolin,['J01DB04'],0.045454545
+meropenem,['J01DH02'],0.045454545
+tigecycline,['J01AA12'],0.045454545
+piperacillin,"['J01CR05', 'J01CA12']",0.045454545
+doripenem,['J01DH04'],0.045454545
+ertapenem,['J01DH03'],0.045454545
+cefepime,['J01DE01'],0.045454545
+ceftobiprole,['J01DI01'],0.045454545
+zomepirac,['M01AB04'],0.041666667
+etoricoxib,['M01AH05'],0.041666667
+valdecoxib,['M01AH03'],0.041666667
+piroxicam,"['M02AA07', 'S01BC06', 'M01AC01']",0.041666667
+rofecoxib,['M01AH02'],0.041666667
+nimesulide,"['M02AA26', 'M01AX17']",0.041666667
+celecoxib,"['M01AH01', 'L01XX33']",0.041666667
+ibuprofen,"['C01EB16', 'M02AA13', 'G02CC01', 'M01AE51', 'M01AE01']",0.041666667
+naproxen,"['G02CC02', 'M01AE02', 'M02AA12', 'M01AE52', 'M01AE56']",0.041666667
+diclofenac,"['S01BC03', 'S01CC01', 'M01AB55', 'M02AA15', 'D11AX18', 'M01AB05']",0.041666667
+phenylbutazone,"['M01BA01', 'M02AA01', 'M01AA01']",0.041666667
+oxyphenbutazone,"['M01AA03', 'S01BC02', 'M02AA04']",0.041666667
+tenoxicam,['M01AC02'],0.041666667
+ketoprofen,"['M01AE03', 'M02AA10', 'M01AE53']",0.041666667
+lornoxicam,['M01AC05'],0.041666667
+flurbiprofen,"['S01BC04', 'M02AA19', 'R02AX01', 'M01AE09']",0.041666667
+ketorolac,"['M01AB15', 'S01BC05']",0.041666667
+parecoxib,['M01AH04'],0.041666667
+suprofen,['M01AE07'],0.041666667
+tolmetin,"['M02AA21', 'M01AB03']",0.041666667
+lumiracoxib,['M01AH06'],0.041666667
+etodolac,['M01AB08'],0.041666667
+oxaprozin,['M01AE12'],0.041666667
+nabumetone,['M01AX01'],0.041666667
+levocabastine,"['S01GX02', 'R01AC02']",0.032258065
+ketotifen,"['R06AX17', 'S01GX08']",0.032258065
+epinastine,"['R06AX24', 'S01GX10']",0.032258065
+azelastine,"['R01AC03', 'S01GX07', 'R06AX19']",0.032258065
+oxymetazoline,"['R01AB07', 'S01GA04', 'R01AA05']",0.032258065
+olopatadine,"['S01GX09', 'R01AC08']",0.032258065
+naphazoline,"['R01AB02', 'S01GA01', 'R01AA08', 'S01GA51']",0.032258065
+xylometazoline,"['S01GA03', 'R01AB06', 'R01AA07', 'S01GA53']",0.032258065
+timolol,"['C07DA06', 'S01ED51', 'C07BA06', 'S01ED01', 'C07AA06']",0.03125
+carteolol,"['S01ED05', 'C07AA15', 'S01ED55']",0.03125
+betaxolol,"['S01ED02', 'S01ED52', 'C07AB05']",0.03125
+metipranolol,"['S01ED54', 'C07BA68', 'S01ED04']",0.03125
+arbekacin,['J01GB12'],0.021276596
+ticarcillin,"['J01CR03', 'J01CA13']",0.021276596
+flucloxacillin,['J01CF05'],0.021276596
+nafcillin,['J01CF06'],0.021276596
+cefapirin,['J01DB08'],0.021276596
+cloxacillin,['J01CF02'],0.021276596
+cefoperazone,"['J01DD12', 'J01DD62']",0.021276596
+cefamandole,['J01DC03'],0.021276596
+cefotetan,['J01DC05'],0.021276596
+ceforanide,['J01DC11'],0.021276596
+pefloxacin,['J01MA03'],0.021276596
+sparfloxacin,['J01MA09'],0.021276596
+azlocillin,['J01CA09'],0.021276596
+gemifloxacin,['J01MA15'],0.021276596
+grepafloxacin,['J01MA11'],0.021276596
+trovafloxacin,['J01MA13'],0.021276596
+cefpodoxime,['J01DD13'],0.021276596
+cefixime,['J01DD08'],0.021276596
+ceftibuten,['J01DD14'],0.021276596
+cefdinir,['J01DD15'],0.021276596
+cefditoren,['J01DD16'],0.021276596
+rosoxacin,['J01MB01'],0.021276596
+temafloxacin,['J01MA05'],0.021276596
+fleroxacin,['J01MA08'],0.021276596
+cinoxacin,['J01MB06'],0.021276596
+pivmecillinam,['J01CA08'],0.021276596
+dicloxacillin,['J01CF01'],0.021276596
+cefaclor,['J01DC04'],0.021276596
+phenoxymethylpenicillin,"['J01CE02', 'J01CE10']",0.021276596
+cefprozil,['J01DC10'],0.021276596
+cefadroxil,['J01DB05'],0.021276596
+loracarbef,['J01DC08'],0.021276596
+pivampicillin,['J01CA02'],0.021276596
+hetacillin,['J01CA18'],0.021276596
+bacampicillin,['J01CA06'],0.021276596
+mezlocillin,['J01CA10'],0.021276596
+cefotiam,['J01DC07'],0.021276596
+cefmetazole,['J01DC09'],0.021276596
+latamoxef,['J01DD06'],0.021276596
+cefmenoxime,['J01DD05'],0.021276596
+ceftizoxime,['J01DD07'],0.021276596
+cefonicid,['J01DC06'],0.021276596
+cefpiramide,['J01DD11'],0.021276596
+phenylephrine,"['R01AB01', 'R01BA53', 'S01FB01', 'R01BA03', 'S01GA05', 'S01GA55', 'C01CA06', 'R01AA04']",0
+methoxamine,['C01CA10'],0
+isoprenaline,"['R03CB01', 'R03AK02', 'R03AB02', 'R03CB51', 'C01CA02']",0
+quinidine,"['C01BA51', 'C01BA01', 'C01BA71']",0
+dronedarone,['C01BD07'],0
+encainide,['C01BC08'],0
+tocainide,['C01BB03'],0
+mexiletine,['C01BB02'],0
+amiodarone,['C01BD01'],0
+ibutilide,['C01BD05'],0
+sotalol,"['C07AA57', 'C07BA07', 'C07AA07']",0
+propafenone,['C01BC03'],0
+disopyramide,['C01BA03'],0
+bepridil,['C08EA02'],0
+aprindine,['C01BB04'],0
+flecainide,['C01BC04'],0
+dofetilide,['C01BD04'],0
+pralatrexate,['L01BA05'],0
+pentostatin,['L01XX08'],0
+fludarabine,['L01BB05'],0
+idarubicin,['L01DB06'],0
+alemtuzumab,['L01XC04'],0
+rituximab,['L01XC02'],0
+azacitidine,['L01BC07'],0
+ofatumumab,['L01XC10'],0
+obinutuzumab,['L01XC15'],0
+clofarabine,['L01BB06'],0
+nelarabine,['L01BB07'],0
+cytarabine,['L01BC01'],0
+mitoxantrone,['L01DB07'],0
+daunorubicin,['L01DB02'],0
+lenalidomide,['L04AX04'],0
+pomalidomide,['L04AX06'],0
+carfilzomib,['L01XX45'],0
+decitabine,['L01BC08'],0
+bortezomib,['L01XX32'],0
+romidepsin,['L01XX39'],0
+vorinostat,['L01XX38'],0
+panobinostat,['L01XX42'],0
+fluorometholone,"['D10AA01', 'S01CB05', 'D07XB04', 'S01BA07', 'C05AA06', 'D07CB03', 'D07AB06', 'S01BB03', 'S01CA07']",0
+lomefloxacin,"['J01MA07', 'S01AE04']",0
+netilmicin,"['S01AA23', 'J01GB07']",0
+benzylpenicillin,"['J01CE01', 'S01AA14', 'J01CE08', 'J01CE09']",0
+gatifloxacin,"['S01AE06', 'J01MA16']",0
+iloprost,['B01AC11'],0
+treprostinil,['B01AC21'],0
+epoprostenol,['B01AC09'],0
+lidocaine,"['C01BB01', 'D04AB01', 'S01HA07', 'N01BB52', 'S02DA01', 'C05AD01', 'N01BB02', 'R02AD02']",0
+clofibrate,"['C10AB03', 'C10AB01']",0
+gemfibrozil,['C10AB04'],0
+bezafibrate,['C10AB02'],0
+tamoxifen,['L02BA01'],0
+anastrozole,['L02BG03'],0
+letrozole,['L02BG04'],0
+exemestane,['L02BG06'],0
+fulvestrant,['L02BA03'],0
+linaclotide,['A06AX04'],0
+domperidone,['A03FA03'],0
+cilansetron,['A03AE03'],0
+prucalopride,['A06AX05'],0
+lubiprostone,['A06AX03'],0
+alosetron,['A03AE01'],0
+cisapride,['A03FA02'],0
+tegaserod,['A06AX06'],0
+rotigotine,['N04BC09'],0
+pramipexole,['N04BC05'],0
+ropinirole,['N04BC04'],0
+lisuride,"['N02CA07', 'G02CB02']",0
+pergolide,['N04BC02'],0
+selegiline,['N04BD01'],0
+rasagiline,['N04BD02'],0
+tolcapone,['N04BX01'],0
+entacapone,['N04BX02'],0
+gentamicin,"['J01GB03', 'D06AX07', 'S02AA14', 'S03AA06', 'S01AA11']",0
+amikacin,"['J01GB06', 'S01AA21', 'D06AX12']",0
+clopidogrel,['B01AC04'],0
+prasugrel,['B01AC22'],0
+ticagrelor,['B01AC24'],0
+diltiazem,['C08DB01'],0
+verapamil,"['C08DA51', 'C08DA01', 'C09BB10']",0
+nifedipine,"['C08GA01', 'C08CA05', 'C08CA55']",0
+methyclothiazide,"['C03AB08', 'C03AA08']",0
+polythiazide,"['C03AB05', 'C03AA05']",0
+labetalol,"['C07CG01', 'C07BG01', 'C07AG01']",0
+hydroflumethiazide,"['C03AA02', 'C03AH02', 'C03AB02']",0
+losartan,"['C09DB06', 'C09CA01', 'C09DA01']",0
+eplerenone,['C03DA04'],0
+nicardipine,['C08CA04'],0
+clevidipine,['C08CA16'],0
+atenolol,"['C07BB03', 'C07AB03', 'C07CB03', 'C07DB01', 'C07CB53', 'C07FB03']",0
+methyldopa,"['C02AB01', 'C02AB', 'C02LB01', 'C02LB', 'C02AB02']",0
+hydralazine,"['C02LG02', 'C02DB02']",0
+nadolol,"['C07AA12', 'C07BA12']",0
+trandolapril,"['C09AA10', 'C09BB10']",0
+spirapril,['C09AA11'],0
+carvedilol,['C07AG02'],0
+bisoprolol,"['C07AB57', 'C07AB07', 'C07BB07', 'C07FB07']",0
+metoprolol,"['C07BB02', 'C07CB02', 'C07AB02', 'C07FB02', 'C07AB52', 'C07BB52']",0
+nebivolol,"['C07AB12', 'C07BB12']",0
+isradipine,['C08CA03'],0
+felodipine,"['C08CA02', 'C09BB05']",0
+nitrendipine,"['C09BB06', 'C08CA08']",0
+mibefradil,['C08CX01'],0
+nilvadipine,['C08CA10'],0
+nisoldipine,['C08CA07'],0
+olmesartan,"['C09DB02', 'C09DA08', 'C09CA08', 'C09DX03']",0
+moexipril,"['C09AA13', 'C09BA13']",0
+irbesartan,"['C09DA04', 'C09CA04', 'C09DB05']",0
+lercanidipine,"['C08CA13', 'C09BB02']",0
+spironolactone,['C03DA01'],0
+perindopril,"['C09BB04', 'C09BX01', 'C09BA04', 'C09AA04']",0
+telmisartan,"['C09DA07', 'C09CA07', 'C09DB04']",0
+temocapril,['C09AA14'],0
+amlodipine,"['C09DB01', 'C08GA02', 'C09DX01', 'C09DX03', 'C09BB07', 'C09DB02', 'C09BB04', 'C10BX03', 'C08CA01', 'C09DB05', 'C09DB04', 'C09DB06', 'C09BX01', 'C09XA53', 'C09XA54', 'C09DB07', 'C09BB03']",0
+valsartan,"['C09DB01', 'C09DA03', 'C09DX01', 'C09CA03', 'C09DX02']",0
+eprosartan,"['C09CA02', 'C09DA02']",0
+ramipril,"['C09AA05', 'C09BB07', 'C09BB05', 'C10BX04', 'C09BA05']",0
+candesartan,"['C09DB07', 'C09DA06', 'C09CA06']",0
+captopril,"['C09BA01', 'C09AA01']",0
+enalapril,"['C09BB06', 'C09BB02', 'C09AA02', 'C09BA02']",0
+quinapril,"['C09BA06', 'C09AA06']",0
+aliskiren,"['C09XA02', 'C09DX02', 'C09XA52', 'C09XA53', 'C09XA54']",0
+hydrochlorothiazide,"['C09XA54', 'C09DX01', 'C03AX01', 'C03EA01', 'C03AB03', 'C03AA03', 'C09DX03', 'C09XA52']",0
+fosinopril,"['C09BA09', 'C09AA09']",0
+cilazapril,"['C09AA08', 'C09BA08']",0
+benazepril,"['C09BA07', 'C09AA07']",0
+lisinopril,"['C09AA03', 'C09BA03', 'C09BB03']",0
+trichlormethiazide,"['C03EA02', 'C03AA06', 'C03AB06']",0
+metolazone,"['C03BA08', 'C03EA12']",0
+triamterene,['C03DB02'],0
+bendroflumethiazide,"['C03AA01', 'C03EA13', 'C03AB01']",0
+chlorothiazide,"['C03AH01', 'C03AA04', 'C03AB04']",0
+piretanide,['C03CA03'],0
+indapamide,"['C09BX01', 'C03BA11']",0
+torasemide,['C03CA04'],0
+estazolam,['N05CD04'],0
+flurazepam,['N05CD01'],0
+alprazolam,['N05BA12'],0
+trimethadione,['N03AC02'],0
+clotiazepam,['N05BA21'],0
+zopiclone,['N05CF01'],0
+quazepam,['N05CD10'],0
+zaleplon,['N05CF03'],0
+triazolam,['N05CD05'],0
+flunitrazepam,['N05CD03'],0
+oxazepam,['N05BA04'],0
+temazepam,['N05CD07'],0
+methyprylon,['N05CE02'],0
+adinazolam,['N05BA07'],0
+halazepam,['N05BA13'],0
+ketazolam,['N05BA10'],0
+eszopiclone,['N05CF04'],0
+ramelteon,['N05CH02'],0
+bromazepam,['N05BA08'],0
+prazepam,['N05BA11'],0
+nitrazepam,['N05CD02'],0
+clorazepate,['N05BA05'],0
+secobarbital,['N05CA06'],0
+methylphenobarbital,['N03AA01'],0
+meprobamate,"['N05BC51', 'N05CX01', 'N05BC01']",0
+glutethimide,['N05CE01'],0
+exenatide,['A10BX04'],0
+glimepiride,"['A10BD04', 'A10BD06', 'A10BB12']",0
+glipizide,['A10BB07'],0
+tolazamide,['A10BB05'],0
+chlorpropamide,['A10BB02'],0
+gliquidone,['A10BB08'],0
+repaglinide,"['A10BD14', 'A10BX02']",0
+nateglinide,['A10BX03'],0
+mitiglinide,['A10BX08'],0
+acarbose,['A10BF01'],0
+liraglutide,['A10BX07'],0
+dapagliflozin,"['A10BD15', 'A10BX09']",0
+vildagliptin,"['A10BD08', 'A10BH02']",0
+canagliflozin,['A10BX11'],0
+saxagliptin,"['A10BD10', 'A10BH03']",0
+linagliptin,"['A10BD11', 'A10BH05']",0
+alogliptin,"['A10BH04', 'A10BD09', 'A10BD13']",0
+empagliflozin,['A10BX12'],0
+voglibose,['A10BF03'],0
+miglitol,['A10BF02'],0
+sitagliptin,"['A10BH51', 'A10BH01', 'A10BD12', 'A10BD07']",0
+ipilimumab,['L01XC11'],0
+panitumumab,['L01XC08'],0
+temsirolimus,['L01XE09'],0
+cetuximab,['L01XC06'],0
+vandetanib,['L01XE12'],0
+sunitinib,['L01XE04'],0
+sorafenib,['L01XE05'],0
+axitinib,['L01XE17'],0
+pazopanib,['L01XE11'],0
+regorafenib,['L01XE21'],0
+tacrolimus,"['D11AH01', 'L04AD02']",0
+everolimus,"['L04AA18', 'L01XE10']",0
+sirolimus,['L04AA10'],0
+afatinib,['L01XE13'],0
+crizotinib,['L01XE16'],0
+lapatinib,['L01XE07'],0
+gefitinib,['L01XE02'],0
+dabrafenib,['L01XE23'],0
+vemurafenib,['L01XE15'],0
+erlotinib,['L01XE03'],0
+trametinib,['L01XE25'],0
+moxifloxacin,"['J01MA14', 'S01AE07']",0
+ofloxacin,"['J01MA01', 'S01AE01', 'S02AA16']",0
+levofloxacin,"['S01AE05', 'J01MA12', 'J01RA05']",0
+ciprofloxacin,"['S02AA15', 'S03AA07', 'S01AE03', 'J01MA02']",0
+amoxicillin,"['A02BD06', 'J01CR02', 'J01CA04', 'A02BD03', 'A02BD07', 'A02BD01', 'A02BD05', 'A02BD04']",0
+metronidazole,"['P01AB01', 'A01AB17', 'J01XD01', 'A02BD02', 'A02BD03', 'A02BD08', 'A02BD01', 'D06BX01', 'G01AF01']",0
+alitretinoin,"['L01XX22', 'D11AH04']",0
+isotretinoin,"['D10AD54', 'D10BA01', 'D10AD04']",0
+acitretin,['D05BB02'],0
+etretinate,['D05BB01'],0
+stavudine,"['J05AF04', 'J05AR07']",0
+zalcitabine,['J05AF03'],0
+didanosine,['J05AF02'],0
+emtricitabine,"['J05AR03', 'J05AR08', 'J05AR06', 'J05AF09', 'J05AR09']",0
+ritonavir,"['J05AE03', 'J05AR10']",0
+telbivudine,['J05AF11'],0
+tenofovir,"['J05AR03', 'J05AR08', 'J05AR06', 'J05AR09', 'J05AF07', 'J05AR11']",0
+tipranavir,['J05AE09'],0
+nelfinavir,['J05AE04'],0
+delavirdine,['J05AG02'],0
+lopinavir,['J05AR10'],0
+indinavir,['J05AE02'],0
+saquinavir,['J05AE01'],0
+fosamprenavir,['J05AE07'],0
+amprenavir,['J05AE05'],0
+darunavir,['J05AE10'],0
+rilpivirine,"['J05AG05', 'J05AR08']",0
+elvitegravir,"['J05AX11', 'J05AR09']",0
+lamivudine,"['J05AR01', 'J05AR02', 'J05AR05', 'J05AF05', 'J05AR07', 'J05AR11', 'J05AR04']",0
+raltegravir,['J05AX08'],0
+maraviroc,['J05AX09'],0
+atazanavir,['J05AE08'],0
+abacavir,"['J05AR02', 'J05AF06', 'J05AR04']",0
+zidovudine,"['J05AR01', 'J05AR04', 'J05AR05', 'J05AF01']",0
+efavirenz,"['J05AR06', 'J05AR11', 'J05AG03']",0
+dolutegravir,['J05AX12'],0
+nevirapine,"['J05AG01', 'J05AR05', 'J05AR07']",0
+calcipotriol,"['D05AX02', 'D05AX52']",0
+alclometasone,"['S01BA10', 'D07AB10']",0
+prednicarbate,['D07AC18'],0
+amcinonide,['D07AC11'],0
+halcinonide,['D07AD02'],0
+adapalene,"['D10AD03', 'D10AD53']",0
+fluocinonide,"['D07CC05', 'C05AA11', 'D07AC08']",0
+tazarotene,['D05AX05'],0
+desonide,"['D07BB02', 'D07AB08', 'S01BA11']",0
+tretinoin,"['D10AD01', 'D10AD51', 'L01XX14']",0
+progesterone,"['G03FA04', 'G03DA04', 'G03XB']",0
+estradiol,"['G03AB08', 'G03AA14', 'G03CA03', 'G03CA53']",0
+testosterone,"['G03EA02', 'G03BA03']",0
+belimumab,['L04AA26'],0
+anakinra,['L04AC03'],0
+rilonacept,['L04AC04'],0
+canakinumab,['L04AC08'],0
+secukinumab,['L04AC10'],0
+abatacept,['L04AA24'],0
+infliximab,['L04AB02'],0
+tocilizumab,['L04AC07'],0
+etanercept,['L04AB01'],0
+ustekinumab,['L04AC05'],0
+golimumab,['L04AB06'],0
+adalimumab,['L04AB04'],0
+topiramate,['N03AX11'],0
+tiagabine,['N03AG06'],0
+progabide,['N03AG05'],0
+rufinamide,['N03AF03'],0
+lacosamide,['N03AX18'],0
+perampanel,['N03AX22'],0
+clobazam,['N05BA09'],0
+zonisamide,['N03AX15'],0
+levetiracetam,['N03AX14'],0
+lamotrigine,['N03AX09'],0
+oxcarbazepine,['N03AF02'],0
+cerivastatin,['C10AA06'],0
+ezetimibe,"['C10BA02', 'C10AX09', 'C10BA06', 'C10BA05']",0
+rosuvastatin,"['C10BA06', 'C10AA07', 'C10BX05']",0
+pravastatin,"['C10AA03', 'C10BX02', 'C10BA03']",0
+pitavastatin,['C10AA08'],0
+simvastatin,"['A10BH51', 'C10AA01', 'C10BA02', 'C10BA04', 'C10BX01', 'C10BX04']",0
+fluvastatin,['C10AA04'],0
+atorvastatin,"['C10BX03', 'C10BA05', 'C10AA05']",0
+neomycin,"['A01AB08', 'S03AA01', 'R02AB01', 'J01GB05', 'D06AX04', 'A07AA01', 'A07AA51', 'B05CA09', 'S01AA03', 'S02AA07']",0
+kanamycin,"['J01GB04', 'S01AA24', 'A07AA08']",0
+streptomycin,"['A07AA04', 'J01GA01', 'A07AA54', 'J04AM01']",0
+phenprocoumon,['B01AA04'],0
+tinzaparin,['B01AB10'],0
+nadroparin,['B01AB06'],0
+dalteparin,['B01AB04'],0
+enoxaparin,['B01AB05'],0
+acenocoumarol,['B01AA07'],0
+apixaban,['B01AF02'],0
+rivaroxaban,['B01AF01'],0
+warfarin,['B01AA03'],0
+trihexyphenidyl,['N04AA01'],0
+procyclidine,['N04AA04'],0
+biperiden,['N04AA02'],0
+scopolamine,"['A04AD51', 'N05CM05', 'S01FA02', 'A04AD01']",0
+lepirudin,['B01AE02'],0
+bivalirudin,['B01AE06'],0
+tirofiban,['B01AC17'],0
+abciximab,['B01AC13'],0
+argatroban,['B01AE03'],0
+eptifibatide,['B01AC16'],0
+streptokinase,"['B01AD01', 'B06AA55']",0
+reteplase,['B01AD07'],0
+tenecteplase,['B01AD11'],0
+alteplase,"['S01XA13', 'B01AD02']",0
+ranitidine,"['A02BA02', 'A02BA07']",0
+nizatidine,['A02BA04'],0
+cimetidine,"['A02BA51', 'A02BA01']",0
+omeprazole,"['A02BD01', 'A02BD05', 'A02BC01']",0
+rabeprazole,['A02BC04'],0
+lansoprazole,"['A02BD02', 'A02BD03', 'A02BC03', 'A02BD07']",0
+pantoprazole,"['A02BC02', 'A02BD04']",0
+famotidine,"['A02BA53', 'A02BA03']",0
+esomeprazole,"['A02BD06', 'B01AC56', 'A02BC05', 'M01AE52']",0
+miconazole,"['A01AB09', 'G01AF04', 'D01AC52', 'J02AB01', 'A07AC01', 'D01AC02', 'S02AA13']",0
+ketoconazole,"['G01AF11', 'D01AC08', 'J02AB02']",0
+sulfanilamide,"['J01EB06', 'D06BA05']",0
+sulfamethizole,"['S01AB01', 'D06BA04', 'B05CA04', 'J01EB02']",0
+sulfathiazole,"['J01EB07', 'D06BA02']",0
+sulfamerazine,"['J01EE07', 'J01ED07', 'D06BA06']",0
+cidofovir,['J05AB12'],0
+foscarnet,['J05AD01'],0
+ganciclovir,"['S01AD09', 'J05AB06']",0
+valaciclovir,['J05AB11'],0
+aciclovir,"['D06BB03', 'S01AD03', 'J05AB01', 'D06BB53']",0
+famciclovir,"['S01AD07', 'J05AB09']",0
+sitaxentan,['C02KX03'],0
+bosentan,['C02KX01'],0
+macitentan,['C02KX04'],0
+ambrisentan,['C02KX02'],0
+desogestrel,"['G03AB05', 'G03AC09', 'G03AA09', 'G03FB10']",0
+drospirenone,"['G03AA12', 'G03FA17']",0
+norethisterone,"['G03AC01', 'G03FB05', 'G03AB04', 'G03AA05', 'G03DC02', 'G03FA01']",0
+dydrogesterone,"['G03FA14', 'G03FB08', 'G03DB01']",0
+norgestimate,"['G03FA13', 'G03AA11']",0
+norelgestromin,['G03AA13'],0
+nilotinib,['L01XE08'],0
+dasatinib,['L01XE06'],0
+bosutinib,['L01XE14'],0
+imatinib,['L01XE01'],0
+ponatinib,['L01XE24'],0
+rifapentine,['J04AB05'],0
+rifabutin,['J04AB04'],0
+bedaquiline,['J04AK05'],0
+budesonide,"['R03BA02', 'R01AD05', 'A07EA06', 'D07AC09', 'R03AK07']",0
+mometasone,"['D07XC03', 'R01AD09', 'R03AK09', 'R03BA07', 'D07AC13']",0
+ciclesonide,"['R03BA08', 'R01AD13']",0
+flunisolide,"['R03BA03', 'R01AD04']",0
+cabazitaxel,['L01CD04'],0
+irinotecan,['L01XX19'],0
+paclitaxel,"['L01CD01', 'L01CD03']",0
+docetaxel,['L01CD02'],0
+gemcitabine,['L01BC05'],0
+olsalazine,['A07EC03'],0
+mesalazine,['A07EC02'],0
+balsalazide,['A07EC04'],0
+tubocurarine,['M03AA02'],0
+rocuronium,['M03AC09'],0
+pipecuronium,['M03AC06'],0
+pancuronium,['M03AC01'],0
+vecuronium,['M03AC03'],0
+mivacurium,['M03AC10'],0
+amsacrine,['L01XX01'],0
+fotemustine,['L01AD05'],0
+teniposide,['L01CB02'],0
+vindesine,['L01CA03'],0
+zolmitriptan,['N02CC03'],0
+sumatriptan,['N02CC01'],0
+eletriptan,['N02CC06'],0
+almotriptan,['N02CC05'],0
+frovatriptan,['N02CC07'],0
+rizatriptan,['N02CC04'],0
+naratriptan,['N02CC02'],0
+ospemifene,['G03XC05'],0
+bazedoxifene,['G03XC02'],0
+raloxifene,['G03XC01'],0
