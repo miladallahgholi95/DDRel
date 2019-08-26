@@ -16,7 +16,7 @@ Scientific literature represents a rich source for the retrieval of knowledge ab
 biological concepts, mainly drug-drug, disease-disease and drug-disease relationships. In this paper, we propose DDREL
 as a general purpose method that applis deep learning on scientific literature to automatically extract the graph of
 syntactic and semantic relationships among drugs. DDREL remarkably outperformed the existing human drug network 
-method and random network built 100 times with respect to average similarities of drugs’ anatomical therapeutic
+method and random network built 100 times with respect to average similarities of drugs anatomical therapeutic
 chemical (ATC) codes. As an application, DDREL succeeded to discover repurposing drugs with 81% accuracy.
 
 __Keywords:__ Drug-Drug Relationships, Repurposing Drugs, Deep Learning, Text Mining, Word Embedding
