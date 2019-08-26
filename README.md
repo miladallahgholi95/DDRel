@@ -17,6 +17,6 @@ syntactic and semantic relationships among drugs. DDREL remarkably outperformed 
 method and random network built 100 times with respect to average similarities of drugs’ anatomical therapeutic
 chemical (ATC) codes. As an application, DDREL succeeded to discover repurposing drugs with 81% accuracy.
 
-Keywords: Drug-Drug Relationships, Repurposing Drugs, Deep Learning, Text Mining,Word Embedding
+Keywords: Drug-Drug Relationships, Repurposing Drugs, Deep Learning, Text Mining, Word Embedding
 
 
