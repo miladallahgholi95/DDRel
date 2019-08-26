@@ -6,8 +6,7 @@ a: School of Computer engineering, Iran University of Science and Technology, Te
 
 b: Centre forMolecular Informatics, Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, CB2 1EW, United Kingdom.
 
-
-</n></n>
+<br /><br />
 
 __&#x1F4D7; Abstract__
 
