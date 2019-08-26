@@ -6,7 +6,7 @@ a: School of Computer engineering, Iran University of Science and Technology, Te
 
 b: Centre forMolecular Informatics, Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, CB2 1EW, United Kingdom.
 
-****************************************  Abstract  ***************************************
+*************************************  Abstract  ************************************
 
 Analyzing the relationships among various drugs is an important issue in the field of computational biology.
 Different kinds of informative knowledge such as drug repurposing can be extracted from drug-drug relationships.
