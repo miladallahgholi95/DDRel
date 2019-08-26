@@ -1,4 +1,4 @@
-**********  DDREL: From Drug-Drug RELationships to drug repurposing  **********
+*********  DDREL: From Drug-Drug RELationships to drug repurposing  *********
 
 Milad Allahgholi (a), Hossein Rahmani (a), Zahra Sadeghi Adl (a) , DelaramJavdani (a), Andreas Bender (b)
 
