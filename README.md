@@ -6,6 +6,9 @@ a: School of Computer engineering, Iran University of Science and Technology, Te
 
 b: Centre forMolecular Informatics, Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, CB2 1EW, United Kingdom.
 
+
+
+
 __&#x1F4D7; Abstract__
 
 Analyzing the relationships among various drugs is an important issue in the field of computational biology.
