@@ -1,4 +1,4 @@
-__&#x1F4D8; DDREL: From Drug-Drug RELationships to drug repurposing__
+__&#x1F4D8; <font color="red"> DDREL: From Drug-Drug RELationships to drug repurposing </font> __
 
 Milad Allahgholi (a), Hossein Rahmani (a), Zahra Sadeghi Adl (a) , DelaramJavdani (a), Andreas Bender (b)
 
