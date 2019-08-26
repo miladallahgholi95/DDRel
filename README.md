@@ -1,4 +1,4 @@
-__&#x1F34E;DDREL: From Drug-Drug RELationships to drug repurposing__
+__&#x1F4D8; DDREL: From Drug-Drug RELationships to drug repurposing__
 
 Milad Allahgholi (a), Hossein Rahmani (a), Zahra Sadeghi Adl (a) , DelaramJavdani (a), Andreas Bender (b)
 
@@ -6,7 +6,7 @@ a: School of Computer engineering, Iran University of Science and Technology, Te
 
 b: Centre forMolecular Informatics, Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, CB2 1EW, United Kingdom.
 
-__Abstract__
+__&#x1F4D7; Abstract__
 
 Analyzing the relationships among various drugs is an important issue in the field of computational biology.
 Different kinds of informative knowledge such as drug repurposing can be extracted from drug-drug relationships.
